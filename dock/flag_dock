@@ -1,0 +1,11 @@
+
+-partners ABCDEF_KJIHGL
+-docking_local_refine
+-dock_pert 5 3
+-native ../relax/minimized.pdb
+-nstruct 10000
+-ex1
+-ex2aro
+
+
+

@@ -1,0 +1,3 @@
+-docking:partners ABCDEF_KJIHGL
+-docking::sc_min
+-nstruct 1000
